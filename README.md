@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project aims to develop a **Drug Discovery and Recommendation System** using **Natural Language Processing (NLP)** techniques. The system analyzes vast amounts of medical data, including research papers, drug reviews, and clinical trials, to suggest potential drug candidates or recommend existing drugs based on textual analysis.
+This project aims to develop a **Drug Discovery and Recommendation System** using **Natural Language Processing (NLP)** techniques. The system analyzes vast amounts of medical data, including , drug reviews, and Patient's reviews and symptoms, to suggest potential drug candidates or recommend existing drugs based on textual analysis.
 
 ## Key Features
 
